@@ -3,7 +3,7 @@ Each week, you'll receive a feedback file in GitHub showing a final grade and an
 
 
 
-## Final Score: 10/10
+## Final Score: 8/10
 
 ## Part 1: Multiple Choice
 * 3 pts - You got all the correct answers
@@ -16,6 +16,7 @@ Each week, you'll receive a feedback file in GitHub showing a final grade and an
 * 1 pt - You know what format those files are
 * 2 pt - You have a draft objective for your project
 
+**(-2) I do want to see something more specific for the data sources and topic that you're planning to pursue for the final project.**
 
 ## Coding Best Practices:
 _Was your code readable, efficient, and in line with what we learned in class?_
