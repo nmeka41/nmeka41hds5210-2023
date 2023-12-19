@@ -1,6 +1,6 @@
 # Feedback on your final
 
-**Final Score: 60/60**
+**Final Score: 58/60**
 
 The grading rubric for the final can be found in GitHub: https://github.com/paulboal/hds5210-2023/blob/main/final/final-instructions.pdf
 
